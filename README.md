@@ -1,6 +1,6 @@
 #PageRank algorithm
 #Transition matrix computation
-====
+================================
 
 This is implementation of PageRank algorithm using Java
 Provides simplification to calculate the transition matrix computation
@@ -17,7 +17,7 @@ Matrix PageRank:
 3  [0,02500] [0,30833] [0,02500] [0,02500] [0,30833] [0,30833] 
 4  [0,87500] [0,02500] [0,02500] [0,02500] [0,02500] [0,02500] 
 5  [0,16667] [0,16667] [0,16667] [0,16667] [0,16667] [0,16667] 
---------------------------------
+
 
 Vector PageRank: 
 
