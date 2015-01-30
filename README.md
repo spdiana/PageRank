@@ -4,12 +4,12 @@
 ```
 This is implementation of PageRank algorithm using Java
 Provides simplification to calculate the transition matrix computation
-
+```
 Output:
 
 Matrix PageRank: 
 
-
+```
      0        1        2         3         4          5     
 0  [0,02500] [0,02500] [0,45000] [0,02500] [0,45000] [0,02500] 
 1  [0,87500] [0,02500] [0,02500] [0,02500] [0,02500] [0,02500] 
